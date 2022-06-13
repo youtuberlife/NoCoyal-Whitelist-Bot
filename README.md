@@ -44,3 +44,6 @@ then node index.js
 Hope this Works for again if it dont work contact me 
 Coyal#5433 [949686408317112381]
 BYE xx uwu
+
+##Discord Server Support:
+https://discord.gg/8McqZCcv5f
